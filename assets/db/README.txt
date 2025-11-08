@@ -1,0 +1,1 @@
+Letakkan tasks.db di folder ini: assets/db/tasks.db
